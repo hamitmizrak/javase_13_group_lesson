@@ -32,8 +32,9 @@ import java.util.Scanner;
 
 // ödev:vize final kullanıcı tarafından alınan vize notunun%40 final notunun%60
 // ve
-// ortalama: eğer50 ise: geçti 60 ise CC 80:BA ve üstü AA ancak notlar negatif
-// girilemez ve ortlama en fazla 0<=ortalama<=100 olmalı
+// ortalama: eğer 50 altında ise : kaldı, 60 ise CC 80:BA ve üstü AA ancak
+// notlar
+// negatif girilemez ve ortlama en fazla 0<=ortalama<=100 olmalı
 public class _a02_Dongu {
 	
 	public static void main(String[] args) throws EcodationExcepiton {
