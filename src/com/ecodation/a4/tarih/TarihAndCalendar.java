@@ -1,4 +1,4 @@
-package com.ecodation.tarih;
+package com.ecodation.a4.tarih;
 
 import java.util.Date;
 
