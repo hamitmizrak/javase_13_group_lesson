@@ -17,7 +17,7 @@ public class _13_StringTokenizer {
 		System.out.println("*****************");
 		
 		// 2.yöntem
-		// eğer büyük veriler varsa şunu kullanalaım.
+		// eğer büyük veriler varsa şunu kullanalım.
 		StringTokenizer stringTokenizer = new StringTokenizer(kelime2, ",&&");
 		while (stringTokenizer.hasMoreTokens()) {
 			String stok = stringTokenizer.nextToken();
