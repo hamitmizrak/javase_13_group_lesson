@@ -1,4 +1,4 @@
-package com.ecodation.a4.tarih;
+package com.ecodation.a04.tarih;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
