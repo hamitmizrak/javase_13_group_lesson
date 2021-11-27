@@ -1,4 +1,4 @@
-package com.ecodation.a11.cleancodes;
+package com.ecodation.a12.solid;
 
 import java.util.Random;
 import java.util.Scanner;
