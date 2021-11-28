@@ -77,5 +77,24 @@ final public class _2SupBeanTuto2 implements Serializable {
 	}
 	
 	// getter and setter
+	public String getKalemRengi() {
+		return kalemRengi;
+	}
+	
+	public void setKalemRengi(String kalemRengi) {
+		this.kalemRengi = kalemRengi;
+	}
+	
+	public double getKalemFiyati() {
+		return kalemFiyati;
+	}
+	
+	public void setKalemFiyati(double kalemFiyati) {
+		this.kalemFiyati = kalemFiyati;
+	}
+	
+	public static long getSerialversionuid() {
+		return serialVersionUID;
+	}
 	
 }
