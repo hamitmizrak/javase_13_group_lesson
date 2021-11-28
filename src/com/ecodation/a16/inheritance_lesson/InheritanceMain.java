@@ -7,14 +7,14 @@ public class InheritanceMain {
 		Msi msi = new Msi();// parametresiz costructor
 		msi.setComputerName("Gl75");
 		msi.setComputerPrice(12);
-		msi.computerFullPropert();// method
+		msi.computerFullPropert();// method polymorphism
 		System.out.println(msi);// toString
 		
 		System.out.println("********************************");
 		
 		// Asus
 		Asus asus = new Asus("asus", 55, "yeşil");
-		asus.computerFullPropert();
+		asus.computerFullPropert();// polymorphism
 		System.out.println(asus);
 		
 	}
