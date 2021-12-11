@@ -1,4 +1,4 @@
-package com.ecodation.a18.software.relation.association;
+package com.ecodation.a18.software.relation.assocation;
 
 public class AssociationMain {
 	
