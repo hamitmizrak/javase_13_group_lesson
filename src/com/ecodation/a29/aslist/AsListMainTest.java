@@ -12,6 +12,7 @@ public class AsListMainTest {
 		Computer computer3 = new Computer(3, "Msi gl-3", "5000");
 		
 		// L-A-V
+		// asList
 		List<Computer> list = Arrays.asList(computer1, computer2, computer3);
 		
 		for (Computer temp : list) {
