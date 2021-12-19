@@ -1,4 +1,4 @@
-package com.ecodation.examples.a00;
+package com.ecodation.a00.examples;
 
 import java.util.Scanner;
 
