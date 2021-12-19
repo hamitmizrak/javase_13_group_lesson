@@ -38,23 +38,6 @@ public class _1_Liste {
 				System.out.print(listem.get(i) + " ");
 			}
 		}
-		System.out.println("\n***********************************");
-		List<String> listem2 = new ArrayList<String>();
-		listem2.add("Amed2");
-		listem2.add("Ekin2");
-		listem2.add("Eray2");
-		listem2.add("Kezban2");
-		listem2.add("Neşe2");
-		listem2.add("Hamit2");
-		
-		List<String> listem3 = new ArrayList<String>();
-		listem3.add("Amed3");
-		listem3.add("Ekin3");
-		listem3.add("Eray3");
-		listem3.add("Kezban3");
-		listem3.add("Neşe3");
-		listem3.add("Hamit3");
-		// list filter
 		
 	}
 }

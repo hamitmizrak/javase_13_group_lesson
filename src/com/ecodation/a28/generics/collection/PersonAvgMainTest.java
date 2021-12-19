@@ -8,6 +8,9 @@ import java.util.List;
 // kişilerle karşılaştırma yapalım ortalamanın altında olanlar 3000 eklesin
 public class PersonAvgMainTest {
 	
+	// Genel bir uygulama
+	// Socket programlama
+	
 	public static void main(String[] args) {
 		PersonAvg avg1 = new PersonAvg("Ahmet-1", "Kerim-1", 28, 3000);
 		PersonAvg avg2 = new PersonAvg("Ahmet-2", "Kerim-2", 29, 4000);
@@ -17,13 +20,6 @@ public class PersonAvgMainTest {
 		
 		List<PersonAvg> listem = Arrays.asList(avg1, avg2, avg3, avg4, avg5);
 		System.out.println(listem.size());
-		
-		// double ortalamaMaas = (avg1.getMaas() + avg2.getMaas() + avg3.getMaas() +
-		// avg4.getMaas() + avg5.getMaas()) / 5;
-		// double ortalamaMaas = (avg1.getMaas() + avg2.getMaas() + avg3.getMaas() +
-		// avg4.getMaas() + avg5.getMaas())
-		// listem.size();
-		// System.out.println(ortalamaMaas);
 		
 		double toplam = 0, ortalama = 0;
 		
